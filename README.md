@@ -1,2 +1,5 @@
 # IBM_DS_Capstone
-Repo for the IBC Applied Data Science Capstone Course
+
+## Editing the file
+
+It's a markdown file in this repository. 
